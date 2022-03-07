@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgba(7,9,30,0.7),rgba(7,9,30,0.7)),url(background-website.webp);
+}
+.pea{
+    color: #fff;
+    position: relative;
+    left: 399px;
+    top: 99px;
+    font-family: 'League Gothic', sans-serif;
+    font-size: 100px;
+}
+.about{
+    color: #fff;
+    font-size: 50px;
+}
+.support{
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    top: 200px;
+    right: 170px;
+}
+.home{
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    right: 999px;
+    bottom: 99px;
+}
